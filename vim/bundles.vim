@@ -12,20 +12,20 @@ Bundle 'gmarik/vundle'
 " Code Completions
 "------------------
 Bundle 'Shougo/neocomplcache'
-Bundle 'mattn/emmet-vim'
+"Bundle 'mattn/emmet-vim'
 Bundle 'Raimondi/delimitMate'
 Bundle 'ervandew/supertab'
 " snippets
-Bundle 'garbas/vim-snipmate'
-Bundle 'honza/vim-snippets'
+"Bundle 'garbas/vim-snipmate'
+"Bundle 'honza/vim-snippets'
 "------ snipmate dependencies -------
-Bundle 'MarcWeber/vim-addon-mw-utils'
-Bundle 'tomtom/tlib_vim'
+"Bundle 'MarcWeber/vim-addon-mw-utils'
+"Bundle 'tomtom/tlib_vim'
 
 "-----------------
 " Fast navigation
 "-----------------
-Bundle 'tsaleh/vim-matchit'
+"Bundle 'tsaleh/vim-matchit'
 Bundle 'Lokaltog/vim-easymotion'
 
 "--------------
